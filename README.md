@@ -2,6 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/no-bads.svg)](https://badge.fury.io/js/no-bads)
 
+![no-bads](https://github.com/anooj1483/no-bads/blob/master/no_bads.png?raw=true)
+
 Javascript library for finding bad words (profanity).
 This library will help you to check bad words in user input fields like feedback form, username entry, messages, etc.
 
