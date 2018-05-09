@@ -1,19 +1,22 @@
 # no-bads
+
+[![npm version](https://badge.fury.io/js/no-bads.svg)](https://badge.fury.io/js/no-bads)
+
 Javascript library for finding bad words (profanity).
 This library will help you to check bad words in user input fields like feedback form, username entry, messages, etc.
 
 This library is still under development. For avoiding issues like, the word 'Hello' is a bad word because it contains "Hell".
-For avoiding this issues, I've created a excpetions list. 
+For avoiding this issues, I've created a exceptions list. 
 
 Supported Languages: English
 If anyone has details of any language, add the json array file containing the bad words in lib/bads folder. 
 
-The filename should be like this "bads_<language code>.json"
+The filename should be like this "bads_*language code*>.json"
 
 # Usage
 
 ```javascript
-var NoBads = require('../lib/NoBads'),
+var NoBads = require('no-bads'),
    filter = new NoBads({languages:['en']});
 
 
