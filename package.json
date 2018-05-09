@@ -19,5 +19,11 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "underscore": "^1.9.0"
-  }
+  },
+  "keywords": [
+    "react-native-bad",
+    "npm bad word",
+    "bad-words",
+    "bads","no","no-bads","nodesj-bad","bad-words identification","profanity","profanity filter","bad-filter"
+  ]
 }
